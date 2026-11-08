@@ -1,0 +1,12 @@
+{
+  "input": "release/VECTOR/VECTOR.lua",
+  "output": "VECTOR.obfuscated.lua",
+  "output_bytes": 1112797,
+  "sha256": "2ca04d5b28c0e2b99a66ed01f3ec542a94a77db700073a3bc7540c74c43b23ee",
+  "renamed_payload_bindings": 1571,
+  "renamed_outer_bindings": 5,
+  "semantic_cases": 12,
+  "lua54_decode_and_compile": "passed",
+  "roblox_runtime": "not tested: disconnected",
+  "vm": "byte decoder, not Lua bytecode interpreter"
+}
