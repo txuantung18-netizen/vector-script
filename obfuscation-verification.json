@@ -7,6 +7,6 @@
   "renamed_outer_bindings": 5,
   "semantic_cases": 12,
   "lua54_decode_and_compile": "passed",
-  "roblox_runtime": "not tested: disconnected",
+  "roblox_runtime": "Initialization passed; VectorLiveUI, standalone session and VECTOR/main.lua confirmed. Gameplay features not tested.",
   "vm": "byte decoder, not Lua bytecode interpreter"
 }
