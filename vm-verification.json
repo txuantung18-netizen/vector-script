@@ -1,13 +1,14 @@
 {
   "artifact": "VECTOR.vm.lua",
-  "bytes": 3131016,
-  "sha256": "5cfea66f3ce6f7461e0c712bcaf546331d35e70c9c5850b539f983c1af5a94b0",
+  "bytes": 903909,
+  "sha256": "27f8f910baaf7de094653bfef65d0dec1a36483f6b382a0a2fcc06b23d1745b9",
   "instructions": 27856,
   "lua54_compilation": "passed",
   "original_source_execution": "none: native functions and APIs are called by VM",
-  "roblox_initialization": "passed: job 4de92bb6592808a5 completed; GUI, standalone session and saved VM resume confirmed",
+  "roblox_initialization": "previous uncompressed VM passed; compact build not directly rerun",
   "scope": "custom structured VM for supported Lua syntax, not full Luau compatibility",
-  "gameplay": "not fully tested",
-  "semantic_cases": 22,
-  "auxiliary_code": "per-instruction arithmetic key reconstruction executed by a dispatcher state machine"
+  "packing": "LZSS + Base85",
+  "previous_bytes": 3131016,
+  "reduction_percent": 71.1,
+  "instruction_tree_equivalence": "passed: every decoded instruction and constant equals previous Roblox-tested VM"
 }
